@@ -1,0 +1,6 @@
+{
+  "name": "NicolePorchetta AI",
+  "description": "Un'app di chat con i migliori modelli AI e persona barese.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
